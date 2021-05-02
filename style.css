@@ -1,0 +1,36 @@
+        body{
+            background: white;
+        }
+    .button {
+        box-shadow: grey;
+        background: grey;
+        background-color: grey;
+        border: 1px solid black;
+        display: inline-block;
+        cursor: pointer;
+        color: #ffffff;
+        font-family: Arial;
+        font-size: 25px;
+        font-weight: bold;
+        padding: 21px 6px;
+        text-shadow: 0px 1px 0px #3d768a;
+        height: 50px;
+        width: 80px;
+        padding: 0px;
+    }
+    .button:hover {
+        background: silver;
+        background-color: pink;
+    }
+    form>input{
+        background-color: silver;  
+        height: 80px;
+        width: 332px;
+        border-radius: 4px;
+        border: 1px solid black;
+        margin-top: 50px;
+        margin-left: 500px;
+        font-size: 30px;
+    }
+    table{
+        margin-left: 500px;                                                                                                                                                                                                                                                    </style>
